@@ -1,0 +1,19 @@
+body {
+  background: linear-gradient(to bottom, #ffeb3b 0%, #f57c00 50%, #212121 100%);
+  color: #333;
+  font-family: "Roboto", sans-serif;
+  padding: 10px;
+}
+
+p {
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+  font-family: "Pacifico", cursive;
+}
